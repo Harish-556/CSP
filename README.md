@@ -92,7 +92,8 @@ Visit `http://127.0.0.1:5000` in your browser.
 
 <img width="1781" height="841" alt="image" src="https://github.com/user-attachments/assets/d60553cd-2965-4e12-9dde-a2272a003b32" />
 
-<img width="1791" height="833" alt="image" src="https://github.com/user-attachments/assets/e93b68f6-db9a-4d63-abb0-fe57314644fd" />
+<img width="1787" height="839" alt="image" src="https://github.com/user-attachments/assets/66cadc9d-1382-426a-92d9-7920c3f72f1c" />
+
 
 
 
