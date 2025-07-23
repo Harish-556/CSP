@@ -11,12 +11,12 @@ This web-based intelligent health assistant is built using **Flask** and various
 
 ##  Features
 
-- ✅ BMI Prediction and Categorization
-- ✅ Disease Prediction from Vitamin Deficiency
-- ✅ Foods to Eat and Avoid based on Deficiency
-- ✅ Personalized Weekly Diet Plan based on Disease and Age
-- ✅ Clean & Responsive UI with Sidebar Navigation
-- ✅ Downloadable PDF-style Health Report (via Print)
+-  BMI Prediction and Categorization
+-  Disease Prediction from Vitamin Deficiency
+-  Foods to Eat and Avoid based on Deficiency
+-  Personalized Weekly Diet Plan based on Disease and Age
+-  Clean & Responsive UI with Sidebar Navigation
+-  Downloadable PDF-style Health Report (via Print)
 
 ---
 
