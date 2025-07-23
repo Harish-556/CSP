@@ -85,9 +85,13 @@ Visit `http://127.0.0.1:5000` in your browser.
 ##  Screenshots
 
 <img width="1908" height="688" alt="image" src="https://github.com/user-attachments/assets/c857d938-c001-4b25-89cd-4b44ce871fc4" />
+
 <img width="1900" height="685" alt="image" src="https://github.com/user-attachments/assets/1b5257ee-545a-4a8e-9a24-68943971d675" />
+
 <img width="1886" height="526" alt="image" src="https://github.com/user-attachments/assets/4aec4bb0-a421-4ace-93f9-2ff108309eef" />
+
 <img width="1781" height="841" alt="image" src="https://github.com/user-attachments/assets/d60553cd-2965-4e12-9dde-a2272a003b32" />
+
 <img width="1791" height="833" alt="image" src="https://github.com/user-attachments/assets/e93b68f6-db9a-4d63-abb0-fe57314644fd" />
 
 
