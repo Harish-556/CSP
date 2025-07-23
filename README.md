@@ -1,3 +1,8 @@
+## 🔗 Project Download (Google Drive)
+
+Due to the large size (>10 GB), the complete project with all models and data is hosted on Google Drive:
+
+👉 [Download Full Project Here](https://drive.google.com/drive/folders/1mRKny5PCI6H8sNoXDJKoKmx-9MixmvZf?usp=sharing)
 #  Community Health & Diet Recommender System
 
 This web-based intelligent health assistant is built using **Flask** and various **Machine Learning models**. It offers:
